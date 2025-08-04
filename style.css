@@ -269,7 +269,7 @@ html{
 
 .backgroundImg{
     margin-top: 5rem;
-    background-image:  url("/Assets/mountainTheme.jpg");
+    background-image:  url("./Assets/mountainTheme.jpg");
     background-size: cover;
     height:40vh ;
     width: 100%;
